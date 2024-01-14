@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ok-coder1
 - 👀 I’m interested in coding and creating apps
-- 🌱 I’m currently learning C++ and Qt
+- 🌱 I’m currently learning Python
+- 🎮 I'm currently playing fake versions of Geometry Dash.
 - My Youtube channel: https://youtube.com/@the-gamer-coder/
 
 <!---
