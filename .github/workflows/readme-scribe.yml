@@ -17,7 +17,7 @@ jobs:
         uses: actions/setup-go@v5
 
       - name: Install markscribe
-        run: go install github.com/muesli/markscribe
+        run: go install github.com/muesli/markscribe@latest
 
       - name: Update README
         run: markscribe -write README.md templates/README.tpl
