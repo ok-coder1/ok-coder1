@@ -1,4 +1,4 @@
-## Hey, it's me @okcoder1 (or @ok-coder1)!
+## Hey, it's me @okcoder1 (or @ok-coder1)! :wave:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ok-coder1&theme=horizon)](https://git.io/streak-stats)
 
