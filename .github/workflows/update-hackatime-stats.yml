@@ -2,11 +2,12 @@ name: Update Hackatime Stats
 
 on:
   schedule:
-    - cron: '30 18,0 * * *'
+    - cron: "0 0 * * *"
+    - cron: "30 18 * * *"
   workflow_dispatch:
 jobs:
   update-readme:
-    name: Update Readme with Metrics
+    name: Update README with Metrics
     runs-on: ubuntu-latest
     steps:
       - uses: https://github.com/Wybxc/waka-readme-stats@master
