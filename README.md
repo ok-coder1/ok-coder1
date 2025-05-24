@@ -3,7 +3,31 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=ok-coder1&theme=horizon)](https://git.io/streak-stats)
 
 ### My GitHub Stats
-[![okcoder1's GitHub stats](https://github-readme-stats.vercel.app/api?username=ok-coder1)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ok-coder1&show_icons=true&theme=ambient_gradient"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ok-coder1&show_icons=true&theme=ambient_gradient"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img alt="okcoder1's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ok-coder1&show_icons=true" />
+</picture>
+
+### My Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ok-coder1&layout=compact"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ok-coder1&layout=compact&theme=ambient_gradient"
+    media="(prefers-color-scheme: light)"
+  />
+  <img alt="okcoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=ok-coder1&layout=compact" />
+</picture>
 
 ### My Contributions
 <picture>
