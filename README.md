@@ -16,7 +16,6 @@
 </picture>
 
 ### My Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ok-coder1&layout=compact"
