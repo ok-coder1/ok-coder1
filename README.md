@@ -28,6 +28,19 @@
   <img alt="okcoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=ok-coder1&layout=compact" />
 </picture>
 
+### My Hackatime Stats
+<picture>
+  <source
+    srcset="https://github-readme-stats.hackclub.dev/api/wakatime?username=2393&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=github_dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.hackclub.dev/api/wakatime?username=2393&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=ambient_gradient"
+    media="(prefers-color-scheme: light)"
+  />
+  <img alt="okcoder1's Hackatime Stats" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=2393&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" />
+</picture>
+
 ### My Contributions
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-snake.svg" />
