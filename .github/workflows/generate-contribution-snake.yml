@@ -33,6 +33,10 @@ jobs:
             snake/github-contribution-snake-dark.svg?palette=github-dark
             snake/github-contribution-snake-ocean.svg?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
+      - name: Delete old files
+        run: |
+          git clean  -d  -f .
+
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
