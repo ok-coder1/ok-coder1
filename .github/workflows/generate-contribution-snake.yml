@@ -35,7 +35,7 @@ jobs:
 
       - name: Delete old files
         run: |
-          git clean  -d  -f .
+          sudo git clean  -d  -f .
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
