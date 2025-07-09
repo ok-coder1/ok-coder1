@@ -43,9 +43,9 @@
 
 ### My Contributions
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ok-coder1/ok-coder1/dist/snake/github-contribution-snake.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ok-coder1/ok-coder1/dist/snake/github-contribution-snake-dark.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ok-coder1/ok-coder1/dist/snake/github-contribution-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ok-coder1/ok-coder1/dist/github-contribution-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ok-coder1/ok-coder1/dist/github-contribution-snake-dark.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ok-coder1/ok-coder1/dist/github-contribution-snake.svg" />
 </picture>
 
 <!--START_SECTION:waka-->
