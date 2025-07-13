@@ -42,7 +42,7 @@ jobs:
             git add .
             git commit -m "Update GitHub Contributions Snake" --signoff
             git push
-            echo Graph updated!
+            echo "::notice title=Graph updated::The contributions graph has been updated!"
           else
             echo "::error title=No new contributions::No new contributions found."
             exit 1
