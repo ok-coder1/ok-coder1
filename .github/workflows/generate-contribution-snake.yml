@@ -37,6 +37,12 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add .
-          git commit -m "Update GitHub Contributions Snake" --signoff
-          git push
+
+          if [[ `git status --porcelain` ]]; then          
+            git add .
+            git commit -m "Update GitHub Contributions Snake" --signoff
+            git push
+            echo Graph updated!
+          else
+            echo No new contributions found.
+          fi
