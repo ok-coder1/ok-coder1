@@ -44,6 +44,6 @@ jobs:
             git push
             echo Graph updated!
           else
-            echo No new contributions found.
             echo "::error title=No new contributions::No new contributions found."
+            exit 1
           fi
