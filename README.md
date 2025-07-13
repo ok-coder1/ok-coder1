@@ -48,5 +48,7 @@
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ok-coder1/ok-coder1/dist/github-contribution-snake.svg" />
 </picture>
 
+<hr>
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
