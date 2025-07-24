@@ -48,6 +48,9 @@
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ok-coder1/ok-coder1/dist/github-contribution-snake.svg" />
 </picture>
 
+### What I'm listening to
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31mhnnih3r7y6evw47hictuhgwri&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31mhnnih3r7y6evw47hictuhgwri&redirect=true)
+
 <hr>
 
 <!--START_SECTION:waka-->
