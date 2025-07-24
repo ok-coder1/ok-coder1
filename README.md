@@ -49,7 +49,11 @@
 </picture>
 
 ### What I'm listening to
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31mhnnih3r7y6evw47hictuhgwri&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31mhnnih3r7y6evw47hictuhgwri&redirect=true)
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=31mhnnih3r7y6evw47hictuhgwri&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=31mhnnih3r7y6evw47hictuhgwri&cover_image=true&theme=default&show_offline=false&background_color=2c4991&interchange=false&bar_color=53b14f&bar_color_cover=false" />
+  <img alt="My Spotify track" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mhnnih3r7y6evw47hictuhgwri&redirect=true" />
+</picture>
 
 <hr>
 
