@@ -6,9 +6,9 @@
 ### I'm a developer. That's it, I guess.
 ## What I Use:
 - macOS <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" height=20 alt="macOS" title="macOS">
-- PYTHON!!! <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" height=20 alt="git" tilte="git">
+- PYTHON!!! <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" height=20 alt="PYTHON!!!" tilte="PYTHON!!!">
 - VS Code <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" height=20 alt="Visual Studio Code" tilte="Visual Studio Code">
-- git (if you don't have this you're not a dev) <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" height=20 alt="PYTHON!!!" tilte="PYTHON!!!">
+- git (if you don't have this you're not a dev) <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" height=20 alt="git" tilte="git">
 - Terminal (i mean, who doesn't?) <img src="https://help.apple.com/assets/65DFB7A79DFEC61A7A0517AC/65DFB7A793CD15C0410BA37D/en_US/d94aa1c4979b25e9ffbda97fcbae219a.png" height=30 alt="Terminal" tilte="Terminal">
 - uhmmmmmmmm idk <img src="https://media.tenor.com/Ql4puupzE2kAAAAj/allomedia-shrug.gif" height=25 alt="idk" tilte="idk">
 
