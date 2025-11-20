@@ -1,5 +1,16 @@
 ## Hey, it's me @okcoder1 (aka @ok-coder1)! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" height=40 alt="Wave" title="Wave">
 
+<p align=center>
+  <picture>
+    <source
+      srcset="https://readme-typing-svg.herokuapp.com?font=Bitcount+Prop+Single&duration=2000&pause=1000&center=true&vCenter=true&random=true&lines=Hello!;Hola!;Bonjour!;Konnichiwa+(%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF)!;Hallo!;Ciao!;N%C7%90+h%C7%8Eo+(%E4%BD%A0%E5%A5%BD)!;Privet+(%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82)!;Jambo!;As-sal%C4%81mu+%CA%BFalaykum!;Namaste+(%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87)!"
+    />
+    <img title="Hello!" alt="Hello!" height=175 src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Prop+Single&duration=2000&pause=1000&center=true&vCenter=true&random=true&width=275&height=25&lines=Hello!;Hola!;Bonjour!;Konnichiwa+(%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF)!;Hallo!;Ciao!;N%C7%90+h%C7%8Eo+(%E4%BD%A0%E5%A5%BD)!;Privet+(%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82)!;Jambo!;As-sal%C4%81mu+%CA%BFalaykum!;Namaste+(%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87)!">
+  </picture>
+</p>
+
+<hr>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=ok-coder1&theme=horizon)](https://git.io/streak-stats)
 
 ### I'm a developer. That's it, I guess.
@@ -88,3 +99,14 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+<hr>
+
+<p align=center>
+  <picture>
+    <source
+      srcset="https://readme-typing-svg.herokuapp.com?font=Bitcount+Prop+Single&duration=2000&pause=1000&center=true&vCenter=true&random=true&lines=Bye!+Have+a+nice+day!;Adi%C3%B3s!+Hasta+luego!;Au+revoir!;Sayonara+(%E3%81%95%E3%82%88%E3%81%86%E3%81%AA%E3%82%89)!;Tsch%C3%BCss!;Arrivederci!;Z%C3%A0i+ji%C3%A0n+(%E5%86%8D%E8%A7%81)!;Poka+(%D0%9F%D0%BE%D0%BA%D0%B0)!;Kwaheri!;As-sal%C4%81mu+%CA%BFalaykum!;Alvida+(%E0%A4%85%E0%A4%B2%E0%A4%B5%E0%A4%BF%E0%A4%A6%E0%A4%BE)!"
+    />
+    <img title="Bye!" alt="Bye!" height=175 src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Prop+Single&duration=2000&pause=1000&center=true&vCenter=true&random=true&width=275&height=25&lines=Bye!+Have+a+nice+day!;Adi%C3%B3s!+Hasta+luego!;Au+revoir!;Sayonara+(%E3%81%95%E3%82%88%E3%81%86%E3%81%AA%E3%82%89)!;Tsch%C3%BCss!;Arrivederci!;Z%C3%A0i+ji%C3%A0n+(%E5%86%8D%E8%A7%81)!;Poka+(%D0%9F%D0%BE%D0%BA%D0%B0)!;Kwaheri!;As-sal%C4%81mu+%CA%BFalaykum!;Alvida+(%E0%A4%85%E0%A4%B2%E0%A4%B5%E0%A4%BF%E0%A4%A6%E0%A4%BE)!">
+  </picture>
+</p>
