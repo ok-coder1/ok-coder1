@@ -1,11 +1,11 @@
-# Hiya, I'm `okcoder1`! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" height=40 alt="Wave" title="Wave">
+# I'm `okcoder1`!
 
 <p align=center>
   <picture>
     <source
-      srcset="https://readme-typing-svg.herokuapp.com?font=Bitcount+Prop+Single&duration=2000&pause=1000&center=true&vCenter=true&random=true&lines=Hello!;Hola!;Bonjour!;Konnichiwa+(%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF)!;Hallo!;Ciao!;N%C7%90+h%C7%8Eo+(%E4%BD%A0%E5%A5%BD)!;Privet+(%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82)!;Jambo!;As-sal%C4%81mu+%CA%BFalaykum!;Namaste+(%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87)!"
+      srcset="https://readme-typing-svg.herokuapp.com?font=Bitcount+Prop+Single&duration=2000&pause=1000&center=true&vCenter=true&random=true&lines=Hello!;Hola!;Bonjour!;Konnichiwa+(%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF)!;Hallo!;Ciao!;N%C7%90+h%C7%8Eo+(%E4%BD%A0%E5%A5%BD)!;Privet+(%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82)!;Jambo!;As-sal%C4%81mu+%CA%BFalaykum!;Namaste+(%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87)!;Hiya!"
     />
-    <img title="Hello!" alt="Hello!" height=175 src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Prop+Single&duration=2000&pause=1000&center=true&vCenter=true&random=true&width=275&height=25&lines=Hello!;Hola!;Bonjour!;Konnichiwa+(%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF)!;Hallo!;Ciao!;N%C7%90+h%C7%8Eo+(%E4%BD%A0%E5%A5%BD)!;Privet+(%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82)!;Jambo!;As-sal%C4%81mu+%CA%BFalaykum!;Namaste+(%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87)!">
+    <img title="Hello!" alt="Hello!" height=175 src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Prop+Single&duration=2000&pause=1000&center=true&vCenter=true&random=true&width=275&height=25&lines=Hello!;Hola!;Bonjour!;Konnichiwa+(%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF)!;Hallo!;Ciao!;N%C7%90+h%C7%8Eo+(%E4%BD%A0%E5%A5%BD)!;Privet+(%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82)!;Jambo!;As-sal%C4%81mu+%CA%BFalaykum!;Namaste+(%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87)!;Hiya!">
   </picture>
 </p>
 
