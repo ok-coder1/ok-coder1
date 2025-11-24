@@ -16,7 +16,7 @@
 ### I'm a developer. That's it, I guess.
 
 ## What I'm doing right now
-<a href="https://discord.com/users/983692760072745020"><img title="Discord Activity" alt="Discord Activity" src="https://lanyard.cnrad.dev/api/983692760072745020?hideSpotify=true&showDisplayName=true"></a>
+<a href="https://discord.com/users/983692760072745020"><img title="Discord Activity" alt="Discord Activity" src="https://lanyard.cnrad.dev/api/983692760072745020?hideSpotify=true&showDisplayName=true&idleMessage=idk%20doing%20nothing%20ig"></a>
 
 <hr>
 
