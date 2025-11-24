@@ -1,4 +1,4 @@
-## Hey, it's me @okcoder1 (aka @ok-coder1)! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" height=40 alt="Wave" title="Wave">
+# Hiya, I'm `okcoder1`! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" height=40 alt="Wave" title="Wave">
 
 <p align=center>
   <picture>
@@ -15,8 +15,23 @@
 
 ### I'm a developer. That's it, I guess.
 
+<hr>
+
 ## What I'm doing right now
 <a href="https://discord.com/users/983692760072745020"><img title="Discord Activity" alt="Discord Activity" src="https://lanyard.cnrad.dev/api/983692760072745020?hideSpotify=true&showDisplayName=true&idleMessage=idk%20doing%20nothing%20ig"></a>
+
+## What I'm listening to
+<picture>
+  <source
+    srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=31mhnnih3r7y6evw47hictuhgwri&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true"
+    media="(prefers-color-scheme: light)"
+  />
+  <source
+    srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=31mhnnih3r7y6evw47hictuhgwri&cover_image=true&theme=default&show_offline=false&background_color=2c4991&interchange=false&bar_color=53b14f&bar_color_cover=false"
+    media="(prefers-color-scheme: dark)"
+  />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31mhnnih3r7y6evw47hictuhgwri&redirect=true"><img title="My Spotify track" alt="My Spotify track" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mhnnih3r7y6evw47hictuhgwri"></a>
+</picture>
 
 <hr>
 
@@ -85,19 +100,6 @@
     media="(prefers-color-scheme: dark)"
   />
   <img title="GitHub Contribution Snake" alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ok-coder1/ok-coder1/dist/github-contribution-snake.svg">
-</picture>
-
-### What I'm listening to
-<picture>
-  <source
-    srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=31mhnnih3r7y6evw47hictuhgwri&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <source
-    srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=31mhnnih3r7y6evw47hictuhgwri&cover_image=true&theme=default&show_offline=false&background_color=2c4991&interchange=false&bar_color=53b14f&bar_color_cover=false"
-    media="(prefers-color-scheme: dark)"
-  />
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31mhnnih3r7y6evw47hictuhgwri&redirect=true"><img title="My Spotify track" alt="My Spotify track" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mhnnih3r7y6evw47hictuhgwri"></a>
 </picture>
 
 <hr>
