@@ -15,6 +15,11 @@
 
 ### I'm a developer. That's it, I guess.
 
+## What I'm doing right now
+<a href="https://discord.com/users/983692760072745020"><img title="Discord Activity" alt="Discord Activity" src="https://lanyard.cnrad.dev/api/983692760072745020?hideSpotify=true&showDisplayName=true"></a>
+
+<hr>
+
 <picture>
   <img title="When my code doesn't work, I don't know why. When my code does work, I don't know why." alt="When my code doesn't work, I don't know why. When my code does work, I don't know why." src="https://user-images.githubusercontent.com/74038190/212897782-96581536-54a0-4b87-87b4-5e55f95e8a8b.gif">
 </picture>
