@@ -13,6 +13,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ok-coder1&theme=horizon)](https://git.io/streak-stats)
 
+<picture><img title="Languages I use" alt="Languages I use" src="https://skillicons.dev/icons?i=apple,bash,git,githubactions,md,python,vscode"></picture>
+
 ### I'm a developer. That's it, I guess.
 
 <hr>
