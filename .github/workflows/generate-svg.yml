@@ -1,0 +1,104 @@
+name: Generate SVGs
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+    - cron: "30 18 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+
+jobs:
+  generate-snake:
+    name: Generate Snake
+    permissions: 
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: dist
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            github-contribution-snake.svg
+            github-contribution-snake-dark.svg?palette=github-dark
+            github-contribution-snake-ocean.svg?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          echo $(git status --porcelain)
+          if [[ `git status --porcelain` ]]; then      
+            git add .
+            git commit -m "Update GitHub Contributions Snake" --signoff
+            git push
+            echo "::notice title=Graph updated::The contributions graph has been updated!"
+          else
+            echo "::error title=No new contributions::No new contributions found."
+            exit 1
+          fi
+
+  generate-stats-cards:
+    name: Generate statistics cards
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: dist
+
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=ambient_gradient
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card (dark mode)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact
+          path: profile/top-langs-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card (light mode)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=ambient_gradient
+          path: profile/top-langs-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          echo $(git status --porcelain)
+          if [[ `git status --porcelain` ]]; then      
+            git add .
+            git commit -m "Update Statistics SVGs" --signoff
+            git push
+            echo "::notice title=Statistics updated::The statistics cards have been updated!"
+          else
+            echo "::error title=No new contributions::No new contributions found."
+            exit 1
+          fi
