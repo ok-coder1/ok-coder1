@@ -55,27 +55,27 @@
 ### My GitHub Stats
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ok-coder1&show_icons=true&theme=ambient_gradient"
+    srcset="https://raw.githubusercontent.com/ok-coder1/ok-coder1/dist/stats.svg"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ok-coder1&show_icons=true&theme=ambient_gradient"
+    srcset="https://raw.githubusercontent.com/ok-coder1/ok-coder1/dist/stats.svg"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img title="okcoder1's GitHub Stats" alt="okcoder1's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ok-coder1&show_icons=true">
+  <img title="okcoder1's GitHub Stats" alt="okcoder1's GitHub Stats" src="https://raw.githubusercontent.com/ok-coder1/ok-coder1/dist/stats.svg">
 </picture>
 
 ### My Top Languages
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ok-coder1&layout=compact"
+    srcset="https://raw.githubusercontent.com/ok-coder1/ok-coder1/dist/top-langs-dark.svg"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ok-coder1&layout=compact&theme=ambient_gradient"
+    srcset="https://raw.githubusercontent.com/ok-coder1/ok-coder1/dist/top-langs-light.svg"
     media="(prefers-color-scheme: light)"
   />
-  <img title="okcoder1's Top Languages" alt="okcoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=ok-coder1&layout=compact">
+  <img title="okcoder1's Top Languages" alt="okcoder1's Top Languages" src="https://raw.githubusercontent.com/ok-coder1/ok-coder1/dist/top-langs-light.svg">
 </picture>
 
 ### My Hackatime Stats
