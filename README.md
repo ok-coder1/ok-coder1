@@ -11,7 +11,7 @@
 
 <hr>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ok-coder1&theme=horizon)](https://git.io/streak-stats)
+<picture><img src="https://github-readme-streak-stats-delta-pink.vercel.app?user=ok-coder1&theme=sunset-gradient"></picture>
 
 <picture><img title="Languages I use" alt="Languages I use" src="https://skillicons.dev/icons?i=apple,bash,git,githubactions,md,python,vscode"></picture>
 
