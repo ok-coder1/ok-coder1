@@ -14,4 +14,5 @@ jobs:
       - uses: anmol098/waka-readme-stats@fix/breaking-change-pygithub
         with:
           WAKATIME_API_KEY: ${{ secrets.HACKATIME_API_KEY }}
+          WAKATIME_API_URL: ${{ secrets.HACKATIME_API_URL }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
