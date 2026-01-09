@@ -11,7 +11,7 @@ jobs:
     name: Update README with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@fix/breaking-change-pygithub
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.HACKATIME_API_KEY }}
           WAKATIME_API_URL: ${{ secrets.HACKATIME_API_URL }}
