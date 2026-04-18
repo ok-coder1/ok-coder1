@@ -15,4 +15,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.HACKATIME_API_KEY }}
           WAKATIME_API_URL: ${{ secrets.HACKATIME_API_URL }}
+          BADGE_STYLE: "for-the-badge"
+          IGNORED_REPOS: "hackclub/dinosaurs, Homebrew/homebrew-core"
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
