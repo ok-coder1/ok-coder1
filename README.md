@@ -55,11 +55,11 @@
 ### My GitHub Stats
 <picture>
   <source
-    srcset="https://raw.githubusercontent.com/ok-coder1/ok-coder1/dist/stats.svg"
+    srcset="https://raw.githubusercontent.com/ok-coder1/ok-coder1/dist/profile/stats.svg"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://raw.githubusercontent.com/ok-coder1/ok-coder1/dist/stats.svg"
+    srcset="https://raw.githubusercontent.com/ok-coder1/ok-coder1/dist/profile/stats.svg"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img title="okcoder1's GitHub Stats" alt="okcoder1's GitHub Stats" src="https://raw.githubusercontent.com/ok-coder1/ok-coder1/dist/stats.svg">
@@ -68,11 +68,11 @@
 ### My Top Languages
 <picture>
   <source
-    srcset="https://raw.githubusercontent.com/ok-coder1/ok-coder1/dist/top-langs-dark.svg"
+    srcset="https://raw.githubusercontent.com/ok-coder1/ok-coder1/dist/profile/top-langs-dark.svg"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://raw.githubusercontent.com/ok-coder1/ok-coder1/dist/top-langs-light.svg"
+    srcset="https://raw.githubusercontent.com/ok-coder1/ok-coder1/dist/profile/top-langs-light.svg"
     media="(prefers-color-scheme: light)"
   />
   <img title="okcoder1's Top Languages" alt="okcoder1's Top Languages" src="https://raw.githubusercontent.com/ok-coder1/ok-coder1/dist/top-langs-light.svg">
