@@ -91,7 +91,7 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&theme=ambient_gradient
           path: profile/top-langs-light.svg
-          *token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit changes
         run: |
