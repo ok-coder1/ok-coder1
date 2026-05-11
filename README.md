@@ -119,3 +119,7 @@
     <img title="Bye!" alt="Bye!" height=175 src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Prop+Single&duration=2000&pause=1000&center=true&vCenter=true&random=true&width=275&height=25&lines=Bye!+Have+a+nice+day!;Adi%C3%B3s!+Hasta+luego!;Au+revoir!;Sayonara+(%E3%81%95%E3%82%88%E3%81%86%E3%81%AA%E3%82%89)!;Tsch%C3%BCss!;Arrivederci!;Z%C3%A0i+ji%C3%A0n+(%E5%86%8D%E8%A7%81)!;Poka+(%D0%9F%D0%BE%D0%BA%D0%B0)!;Kwaheri!;As-sal%C4%81mu+%CA%BFalaykum!;Alvida+(%E0%A4%85%E0%A4%B2%E0%A4%B5%E0%A4%BF%E0%A4%A6%E0%A4%BE)!">
   </picture>
 </p>
+<svg width="200" height="8" xmlns="http://www.w3.org/2000/svg">
+<rect width="200" height="8" rx="4" fill="#172f45"/>
+<rect width="100" height="8" rx="4" fill="#90CAF9"/>
+</svg>
