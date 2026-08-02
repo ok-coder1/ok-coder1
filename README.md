@@ -25,11 +25,11 @@
 ## What I'm listening to
 <picture>
   <source
-    srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=31mhnnih3r7y6evw47hictuhgwri&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true"
+    srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=31mhnnih3r7y6evw47hictuhgwri&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark"
     media="(prefers-color-scheme: light)"
   />
   <source
-    srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=31mhnnih3r7y6evw47hictuhgwri&cover_image=true&theme=spotify-embed&show_offline=false&background_color=2c4991&interchange=false&bar_color=53b14f&bar_color_cover=false"
+    srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=31mhnnih3r7y6evw47hictuhgwri&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=light"
     media="(prefers-color-scheme: dark)"
   />
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31mhnnih3r7y6evw47hictuhgwri&redirect=true"><img title="My Spotify track" alt="My Spotify track" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mhnnih3r7y6evw47hictuhgwri"></a>
